@@ -27,6 +27,7 @@ The data in the dataframe GSSdata is from the 2018 General Social Survey. The fi
 First question - Is opinion on the death penalty (CAPPUN) independent of gun ownership (OWNGUN)?
 
 $H_0$: The null hypothesis   
+
 $H_A$ The alternative hypothesis  
 
 ## Methods
