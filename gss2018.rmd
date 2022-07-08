@@ -55,7 +55,7 @@ barchartGC(~ CAPPUN+ OWNGUN, data=GSSdata, type="percent")
 
 ```
 
-According to the percent graph more people oppose 
+According to the percent graph more people oppose no 
 
 #### Numerical Descriptive Results
 
