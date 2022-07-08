@@ -51,9 +51,11 @@ chi-squared test of independence, fisher exact test for odds ratio
 
 ```{r}
 barchartGC(~CAPPUN + OWNGUN, data=GSSdata)
-barchartGC(~CAPPUN + OWNGUN, data=GSSdata, type="percent")
+barchartGC(~ CAPPUN+ OWNGUN, data=GSSdata, type="percent")
 
 ```
+
+According to the percent graph more people oppose 
 
 #### Numerical Descriptive Results
 
@@ -80,7 +82,7 @@ Is there a difference in years of education (EDUC) between the those who did or 
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
-##Results
+## Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
 
@@ -108,7 +110,7 @@ Determine if a persons performance on the wordsum test (WORDSUM) is independent 
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
-##Results
+## Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
 
